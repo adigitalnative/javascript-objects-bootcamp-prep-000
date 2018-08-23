@@ -1,0 +1,1 @@
+var playlist = {fooname: 'foo song', footwoname: 'footwosong' }
